@@ -1,4 +1,4 @@
-# Quality-of-Living-and-Sustainable-Mobility
+# Quality of Living and Sustainable Mobility in Cities
 ## A research project for University of Cambridge looking at the predictability of quality of living in a city given available metrics
 ## Part of Master's of Philosophy in Engineering for Sustainable Development 2018 - 2019
 
